@@ -1,8 +1,21 @@
-# React + Vite
+Portfolio App
+Welcome to my Portfolio App repository! This project showcases my personal portfolio using modern web development tools and practices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 About the Project
+This is a responsive and interactive portfolio website built with React and Vite. The goal of this project is to present my professional profile, skills, and projects in a visually appealing way.
 
-Currently, two official plugins are available:
+🎯 Purpose
+To create a central place to showcase who I am as a developer.
+To demonstrate my front-end skills through a clean, responsive, and performant UI.
+To provide recruiters, collaborators, or potential clients with a quick overview of my work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚙️ How It Works
+The app is built as a Single Page Application (SPA) using React.
+The content is structured into components like:
+Home: A hero section introducing who I am.
+Projects: A list of my projects with descriptions and links.
+Skills: Technologies and tools I’m familiar with.
+Contact: A form or links to reach out to me.
+All components are styled using standard CSS to ensure a smooth and responsive experience.
+The site is bundled and optimized using Vite, allowing for super-fast development and builds.
+
