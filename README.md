@@ -46,8 +46,7 @@ It is designed to present my profile in a clear, professional, and visually appe
 
 ## 🔗 Live Demo
 
-**[Live Site Here](https://your-deployment-link.netlify.app)**  
-(Добавь ссылку, когда задеплоишь)
+https://arystansportfolio.netlify.app/
 
 ---
 
@@ -56,5 +55,5 @@ It is designed to present my profile in a clear, professional, and visually appe
 Feel free to reach out for collaboration, suggestions, or just to connect!
 
 - GitHub: [@avomasrq](https://github.com/avomasrq)
-- Email: [твой email]
-- LinkedIn: [твой линк, если есть]
+- Email: arystan909@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/arystan-tanekov-089639338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
